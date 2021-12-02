@@ -592,8 +592,8 @@ body{
 }
 .footers p{
   text-align: left;
-  font-size: 10rem;
-  font-family: var(--color);
+  font-size: 8rem;
+  font-family:var(--color);
 }
 
 
