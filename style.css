@@ -592,9 +592,8 @@ body{
 }
 .footers p{
   text-align: left;
-  font-style: italic;
-  font-size: 5rem;
-  font-family: cursive;
+  font-size: 10rem;
+  font-family: var(--color);
 }
 
 
